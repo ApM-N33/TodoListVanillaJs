@@ -1,0 +1,37 @@
+:root {
+  --white-1st: #fff;
+  --yellow--1st: #f6e67a;
+  --yellow--2nd: #fcf1b5;
+  --yellow-3rd: #7f763c;
+  --yellow-4th: #d3c794;
+  --yellow-5th: #d6c34c;
+  --midnight: #2c3e50;
+  --gray-1st: #4a4a4a;
+  --gray-2nd: #ccc;
+  --text-shadow-1st: 0 1px 1px rgba(0, 0, 0, 0.1);
+  --box-shadow-1st: 0 10px 60px rgb(209, 157, 1);
+  --box-shadow-2nd: 0 2px 12px rgba(130, 100, 30, 0.8);
+  --box-shadow-3rd: 0 6px 20px rgba(130, 100, 30, 0.7);
+  --box-shadow-4rd: inset 0 0 5px rgba(130, 100, 30, 0.8);
+  --box-shadow-5th: 0 3px 12px rgba(94, 94, 94, 0.75);
+  --box-shadow-6th: 0 4px 12px rgba(0, 0, 0, 0.2);
+  --box-shadow-7th: 0 6px 18px rgba(0, 0, 0, 0.3);
+  --body-bg-gradient: linear-gradient(
+    -45deg,
+    #fbc2eb,
+    #a6c1ee,
+    #fcd1c2,
+    #c2e9fb
+  );
+  --app-gradient: linear-gradient(
+    135deg,
+    #fff8e1,
+    #ffecb3,
+    #ffe082,
+    #ffdb74,
+    #ffd95e,
+    #ffe28a,
+    #fff0b3,
+    #fff5cc
+  );
+}
