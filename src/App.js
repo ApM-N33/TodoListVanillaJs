@@ -4,6 +4,8 @@ import TodoItemsList from "./components/TodoItemsList"
 import TodoTitle from "./components/TodoTitle"
 import TodoToolbar from "./components/TodoToolbar"
 
+// ////////////// TODO APP //////////////////////////////
+
 function App() {
   let info = JSON.parse(localStorage.getItem("TODO")) || [
     { id: Math.random(), isCompleted: false, label: "Learn React" },
